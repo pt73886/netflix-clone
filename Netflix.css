@@ -3,6 +3,21 @@ h1{
     text-align: center;
 }
 
-div {
+/* div {
     text-align: center;
+} */
+
+#container {
+    text-align: center;
+    background-color: aliceblue;
+
+}
+
+#container input {
+    font-size: 1.2em;
+}
+
+#container button {
+    font-size: 1.2em;
+    
 }
